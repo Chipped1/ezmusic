@@ -1,0 +1,23 @@
+{
+  "name": "ezmusic",
+  "version": "1.0.0",
+  "description": "An easy-to-use npm package used to get a song info using the Itunes API.",
+  "main": "app.js",
+  "dependencies": {
+    "superagent": "^3.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chipped1/ezmusic.git"
+  },
+  "author": "Saif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chipped1/ezmusic/issues"
+  },
+  "homepage": "https://github.com/Chipped1/ezmusic#readme",
+  "devDependencies": {}
+}
